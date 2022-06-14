@@ -277,6 +277,7 @@ struct RadarData @0x888ad6581cf0aacb {
     canError @0;
     fault @1;
     wrongConfig @2;
+    canBusMissing @3;
   }
 
   # similar to LiveTracks
