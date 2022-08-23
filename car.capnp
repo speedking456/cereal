@@ -505,6 +505,7 @@ struct CarParams {
     kp @1 :Float32;
     ki @2 :Float32;
     friction @3 :Float32;
+    maxAccelFactor @6 :Float32;
     kf @4 :Float32;
     steeringAngleDeadzoneDeg @5 :Float32;
   }
